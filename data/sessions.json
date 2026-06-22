@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "session-1782151033620",
+    "date": "2026-06-22T17:57:13.620Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4,
+      "shoulderAlignment": 8.5,
+      "headStability": 86,
+      "balanceScore": 84,
+      "measured": {
+        "frontKneeBrace": 162,
+        "trunkLean": 14,
+        "shoulderAlignment": 8.5,
+        "releaseAngle": 168.2
+      },
+      "estimated": {
+        "releaseHeight": 2.18,
+        "speed": 134.5,
+        "runUpSpeed": 6.4,
+        "stepCount": 8
+      },
+      "derived": {
+        "headStability": 86,
+        "balanceScore": 84,
+        "powerTransfer": 81
+      }
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782150794655",
+    "date": "2026-06-22T17:53:14.655Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4,
+      "shoulderAlignment": 8.5,
+      "headStability": 86,
+      "balanceScore": 84,
+      "measured": {
+        "frontKneeBrace": 162,
+        "trunkLean": 14,
+        "shoulderAlignment": 8.5,
+        "releaseAngle": 168.2
+      },
+      "estimated": {
+        "releaseHeight": 2.18,
+        "speed": 134.5,
+        "runUpSpeed": 6.4,
+        "stepCount": 8
+      },
+      "derived": {
+        "headStability": 86,
+        "balanceScore": 84,
+        "powerTransfer": 81
+      }
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782150572664",
+    "date": "2026-06-22T17:49:32.664Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4,
+      "shoulderAlignment": 8.5,
+      "headStability": 86,
+      "balanceScore": 84,
+      "measured": {
+        "frontKneeBrace": 162,
+        "trunkLean": 14,
+        "shoulderAlignment": 8.5,
+        "releaseAngle": 168.2
+      },
+      "estimated": {
+        "releaseHeight": 2.18,
+        "speed": 134.5,
+        "runUpSpeed": 6.4,
+        "stepCount": 8
+      },
+      "derived": {
+        "headStability": 86,
+        "balanceScore": 84,
+        "powerTransfer": 81
+      }
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782150504500",
+    "date": "2026-06-22T17:48:24.500Z",
+    "bowlerName": "Shane Warne (Demo)",
+    "bowlingType": "spin",
+    "overallScore": 85,
+    "scores": {
+      "runUp": 78,
+      "action": 86,
+      "balance": 88,
+      "release": 84,
+      "technique": 89
+    },
+    "metrics": {
+      "speed": 86.4,
+      "revs": 2240,
+      "stepCount": 5,
+      "bracedKneeAngle": 145,
+      "trunkLean": 7.5,
+      "releaseHeight": 2.08,
+      "releaseAngle": 151.4,
+      "pivotFootStability": 88,
+      "wristPositionScore": 92,
+      "shoulderAlignment": 5.2,
+      "headStability": 90,
+      "balanceScore": 88,
+      "measured": {
+        "frontKneeBrace": 145,
+        "trunkLean": 7.5,
+        "shoulderAlignment": 5.2,
+        "releaseAngle": 151.4
+      },
+      "estimated": {
+        "releaseHeight": 2.08,
+        "speed": 86.4,
+        "revs": 2240,
+        "stepCount": 5
+      },
+      "derived": {
+        "headStability": 90,
+        "balanceScore": 88,
+        "pivotFootStability": 88,
+        "wristPositionScore": 92
+      }
+    },
+    "feedback": {
+      "strengths": [
+        "Superb wrist position and snap at release, maximizing spin revolutions",
+        "Stable pivot foot allows full trunk rotation and drive",
+        "Outstanding head stability allows precise landing coordinates"
+      ],
+      "weaknesses": [
+        "Short delivery stride decreases flight loop control",
+        "Slightly low release height reduces bounce generation"
+      ],
+      "recommendations": [
+        "Increase delivery stride length by 5-10% to achieve a cleaner flight arch.",
+        "Reach higher with the non-bowling arm to pull down and lift release height."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782150374128",
+    "date": "2026-06-22T17:46:14.128Z",
+    "bowlerName": "b leeee",
+    "bowlingType": "fast",
+    "overallScore": 67,
+    "scores": {
+      "runUp": 94,
+      "action": 52,
+      "balance": 80,
+      "release": 60,
+      "technique": 50
+    },
+    "metrics": {
+      "speed": 135.2,
+      "stepCount": 10,
+      "bracedKneeAngle": 145.4,
+      "trunkLean": 35.2,
+      "releaseHeight": 2.0388103575885754,
+      "releaseAngle": 103.9,
+      "powerTransfer": 50,
+      "runUpSpeed": 6.2,
+      "shoulderAlignment": 167.3,
+      "headStability": 100,
+      "balanceScore": 80,
+      "measured": {
+        "frontKneeBrace": 145.4,
+        "trunkLean": 35.2,
+        "shoulderAlignment": 167.3,
+        "releaseAngle": 103.9
+      },
+      "estimated": {
+        "releaseHeight": 2.0388103575885754,
+        "speed": 135.2,
+        "runUpSpeed": 6.2,
+        "stepCount": 10
+      },
+      "derived": {
+        "headStability": 100,
+        "balanceScore": 80,
+        "powerTransfer": 50
+      }
+    },
+    "feedback": {
+      "strengths": [
+        "Strong head stability throughout the crease entry",
+        "Consistent run-up acceleration rhythm"
+      ],
+      "weaknesses": [
+        "Excessive lateral trunk lean at release"
+      ],
+      "recommendations": [
+        "Engage core muscles to remain more upright at release, reducing lower back stress."
+      ]
+    },
+    "injuryRisk": "medium",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": true,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782128535156",
+    "date": "2026-06-22T11:42:15.156Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782128404070",
+    "date": "2026-06-22T11:40:04.070Z",
+    "bowlerName": "Shane Warne (Demo)",
+    "bowlingType": "spin",
+    "overallScore": 85,
+    "scores": {
+      "runUp": 78,
+      "action": 86,
+      "balance": 88,
+      "release": 84,
+      "technique": 89
+    },
+    "metrics": {
+      "speed": 86.4,
+      "revs": 2240,
+      "stepCount": 5,
+      "bracedKneeAngle": 145,
+      "trunkLean": 7.5,
+      "releaseHeight": 2.08,
+      "releaseAngle": 151.4,
+      "pivotFootStability": 88,
+      "wristPositionScore": 92
+    },
+    "feedback": {
+      "strengths": [
+        "Superb wrist position and snap at release, maximizing spin revolutions",
+        "Stable pivot foot allows full trunk rotation and drive",
+        "Outstanding head stability allows precise landing coordinates"
+      ],
+      "weaknesses": [
+        "Short delivery stride decreases flight loop control",
+        "Slightly low release height reduces bounce generation"
+      ],
+      "recommendations": [
+        "Increase delivery stride length by 5-10% to achieve a cleaner flight arch.",
+        "Reach higher with the non-bowling arm to pull down and lift release height."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782115922093",
+    "date": "2026-06-22T08:12:02.093Z",
+    "bowlerName": "blee",
+    "bowlingType": "fast",
+    "overallScore": 45,
+    "scores": {
+      "runUp": 90,
+      "action": 22,
+      "balance": -43,
+      "release": 80,
+      "technique": 74
+    },
+    "metrics": {
+      "speed": 135.2,
+      "stepCount": 7,
+      "bracedKneeAngle": 146,
+      "trunkLean": 85.5,
+      "releaseHeight": 2.26,
+      "releaseAngle": 156.4,
+      "powerTransfer": 74,
+      "runUpSpeed": 6.1
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up acceleration rhythm"
+      ],
+      "weaknesses": [
+        "Excessive lateral trunk lean at release"
+      ],
+      "recommendations": [
+        "Engage core muscles to remain more upright at release, reducing lower back stress."
+      ]
+    },
+    "injuryRisk": "medium",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": true,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782115922072",
+    "date": "2026-06-22T08:12:02.072Z",
+    "bowlerName": "blee",
+    "bowlingType": "fast",
+    "overallScore": 45,
+    "scores": {
+      "runUp": 91,
+      "action": 22,
+      "balance": -43,
+      "release": 80,
+      "technique": 74
+    },
+    "metrics": {
+      "speed": 136.6,
+      "stepCount": 8,
+      "bracedKneeAngle": 146,
+      "trunkLean": 85.5,
+      "releaseHeight": 2.16,
+      "releaseAngle": 156.4,
+      "powerTransfer": 74,
+      "runUpSpeed": 6.9
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up acceleration rhythm"
+      ],
+      "weaknesses": [
+        "Excessive lateral trunk lean at release"
+      ],
+      "recommendations": [
+        "Engage core muscles to remain more upright at release, reducing lower back stress."
+      ]
+    },
+    "injuryRisk": "medium",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": true,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782114471335",
+    "date": "2026-06-22T07:47:51.335Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782114365066",
+    "date": "2026-06-22T07:46:05.066Z",
+    "bowlerName": "Shane Warne (Demo)",
+    "bowlingType": "spin",
+    "overallScore": 85,
+    "scores": {
+      "runUp": 78,
+      "action": 86,
+      "balance": 88,
+      "release": 84,
+      "technique": 89
+    },
+    "metrics": {
+      "speed": 86.4,
+      "revs": 2240,
+      "stepCount": 5,
+      "bracedKneeAngle": 145,
+      "trunkLean": 7.5,
+      "releaseHeight": 2.08,
+      "releaseAngle": 151.4,
+      "pivotFootStability": 88,
+      "wristPositionScore": 92
+    },
+    "feedback": {
+      "strengths": [
+        "Superb wrist position and snap at release, maximizing spin revolutions",
+        "Stable pivot foot allows full trunk rotation and drive",
+        "Outstanding head stability allows precise landing coordinates"
+      ],
+      "weaknesses": [
+        "Short delivery stride decreases flight loop control",
+        "Slightly low release height reduces bounce generation"
+      ],
+      "recommendations": [
+        "Increase delivery stride length by 5-10% to achieve a cleaner flight arch.",
+        "Reach higher with the non-bowling arm to pull down and lift release height."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782114243706",
+    "date": "2026-06-22T07:44:03.706Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782113930551",
+    "date": "2026-06-22T07:38:50.551Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782113870738",
+    "date": "2026-06-22T07:37:50.738Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782113810842",
+    "date": "2026-06-22T07:36:50.842Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782113138839",
+    "date": "2026-06-22T07:25:38.839Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782113052765",
+    "date": "2026-06-22T07:24:12.765Z",
+    "bowlerName": "dfbhrh",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112889965",
+    "date": "2026-06-22T07:21:29.965Z",
+    "bowlerName": "ectvt",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112497699",
+    "date": "2026-06-22T07:14:57.700Z",
+    "bowlerName": "54v ",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112265510",
+    "date": "2026-06-22T07:11:05.510Z",
+    "bowlerName": "bumhra",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112206156",
+    "date": "2026-06-22T07:10:06.156Z",
+    "bowlerName": "rcv3 v",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112099031",
+    "date": "2026-06-22T07:08:19.031Z",
+    "bowlerName": "2www",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112044997",
+    "date": "2026-06-22T07:07:24.997Z",
+    "bowlerName": "bumhra2",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782112044977",
+    "date": "2026-06-22T07:07:24.977Z",
+    "bowlerName": "bumhra2",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782109555305",
+    "date": "2026-06-22T06:25:55.305Z",
+    "bowlerName": "bumhra",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782109555213",
+    "date": "2026-06-22T06:25:55.213Z",
+    "bowlerName": "bumhra",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782108991465",
+    "date": "2026-06-22T06:16:31.465Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782108377045",
+    "date": "2026-06-22T06:06:17.045Z",
+    "bowlerName": "Shane Warne (Demo)",
+    "bowlingType": "spin",
+    "overallScore": 85,
+    "scores": {
+      "runUp": 78,
+      "action": 86,
+      "balance": 88,
+      "release": 84,
+      "technique": 89
+    },
+    "metrics": {
+      "speed": 86.4,
+      "revs": 2240,
+      "stepCount": 5,
+      "bracedKneeAngle": 145,
+      "trunkLean": 7.5,
+      "releaseHeight": 2.08,
+      "releaseAngle": 151.4,
+      "pivotFootStability": 88,
+      "wristPositionScore": 92
+    },
+    "feedback": {
+      "strengths": [
+        "Superb wrist position and snap at release, maximizing spin revolutions",
+        "Stable pivot foot allows full trunk rotation and drive",
+        "Outstanding head stability allows precise landing coordinates"
+      ],
+      "weaknesses": [
+        "Short delivery stride decreases flight loop control",
+        "Slightly low release height reduces bounce generation"
+      ],
+      "recommendations": [
+        "Increase delivery stride length by 5-10% to achieve a cleaner flight arch.",
+        "Reach higher with the non-bowling arm to pull down and lift release height."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782108346998",
+    "date": "2026-06-22T06:05:46.998Z",
+    "bowlerName": "Mitchell Starc (Demo)",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782107960337",
+    "date": "2026-06-22T05:59:20.338Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782107671015",
+    "date": "2026-06-22T05:54:31.015Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782107510955",
+    "date": "2026-06-22T05:51:50.955Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1782107395283",
+    "date": "2026-06-22T05:49:55.283Z",
+    "bowlerName": "Mitchell Starc",
+    "bowlingType": "fast",
+    "overallScore": 82,
+    "scores": {
+      "runUp": 86,
+      "action": 79,
+      "balance": 84,
+      "release": 80,
+      "technique": 81
+    },
+    "metrics": {
+      "speed": 134.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 162,
+      "trunkLean": 14,
+      "releaseHeight": 2.18,
+      "releaseAngle": 168.2,
+      "powerTransfer": 81,
+      "runUpSpeed": 6.4
+    },
+    "feedback": {
+      "strengths": [
+        "Consistent run-up speed acceleration",
+        "High release height maximizes bounce potential",
+        "Balanced head alignment at jump landing"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee (162° vs ideal 165°-175°)",
+        "Abrupt deceleration during the follow-through crease exit"
+      ],
+      "recommendations": [
+        "Focus on locking the front knee slightly more at front-foot contact to leverage ground forces.",
+        "Continue run-up momentum through follow-through; avoid halting your stride immediately post-delivery."
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-1",
+    "date": "2026-06-18T05:30:27.806Z",
+    "bowlerName": "Guest Bowler",
+    "bowlingType": "fast",
+    "overallScore": 78,
+    "scores": {
+      "runUp": 82,
+      "action": 75,
+      "balance": 80,
+      "release": 76,
+      "technique": 77
+    },
+    "metrics": {
+      "speed": 132.5,
+      "stepCount": 8,
+      "bracedKneeAngle": 154,
+      "trunkLean": 18,
+      "releaseHeight": 2.15,
+      "releaseAngle": 85,
+      "powerTransfer": 78,
+      "runUpSpeed": 6.2
+    },
+    "feedback": {
+      "strengths": [
+        "Smooth run-up tempo",
+        "Great head alignment at delivery"
+      ],
+      "weaknesses": [
+        "Slightly collapsed front knee",
+        "Short delivery stride"
+      ],
+      "recommendations": [
+        "Increase final stride length by 10% to improve power transfer",
+        "Focus on locking the front knee at landing"
+      ]
+    },
+    "injuryRisk": "medium",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": true
+    }
+  },
+  {
+    "id": "session-2",
+    "date": "2026-06-20T05:30:27.807Z",
+    "bowlerName": "Guest Bowler",
+    "bowlingType": "fast",
+    "overallScore": 84,
+    "scores": {
+      "runUp": 85,
+      "action": 83,
+      "balance": 84,
+      "release": 82,
+      "technique": 86
+    },
+    "metrics": {
+      "speed": 136.8,
+      "stepCount": 9,
+      "bracedKneeAngle": 165,
+      "trunkLean": 12,
+      "releaseHeight": 2.22,
+      "releaseAngle": 88,
+      "powerTransfer": 85,
+      "runUpSpeed": 6.5
+    },
+    "feedback": {
+      "strengths": [
+        "Excellent front knee bracing",
+        "High release point",
+        "Outstanding recovery"
+      ],
+      "weaknesses": [
+        "Minor trunk lean at side-bending"
+      ],
+      "recommendations": [
+        "Maintain current bracing angle",
+        "Slightly strengthen core to reduce side lateral lean"
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  },
+  {
+    "id": "session-3",
+    "date": "2026-06-21T05:30:27.807Z",
+    "bowlerName": "Guest Bowler",
+    "bowlingType": "spin",
+    "overallScore": 81,
+    "scores": {
+      "runUp": 80,
+      "action": 82,
+      "balance": 78,
+      "release": 85,
+      "technique": 80
+    },
+    "metrics": {
+      "speed": 84.2,
+      "revs": 2150,
+      "stepCount": 5,
+      "bracedKneeAngle": 148,
+      "trunkLean": 8,
+      "releaseHeight": 2.1,
+      "releaseAngle": 76,
+      "pivotFootStability": 82,
+      "wristPositionScore": 88
+    },
+    "feedback": {
+      "strengths": [
+        "High revolutions on release",
+        "Stable pivot foot alignment"
+      ],
+      "weaknesses": [
+        "Low release height",
+        "Stiff shoulder rotation"
+      ],
+      "recommendations": [
+        "Work on higher release point to achieve more flight and bounce",
+        "Loosen chest and shoulders for fluid rotation"
+      ]
+    },
+    "injuryRisk": "low",
+    "riskMetrics": {
+      "hyperextendedKnee": false,
+      "excessiveTrunkLean": false,
+      "poorLanding": false
+    }
+  }
+]

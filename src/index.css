@@ -1,0 +1,158 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-dark: #070a13;
+  --color-brand-card: rgba(15, 23, 42, 0.55);
+  --color-brand-border: rgba(255, 255, 255, 0.08);
+  --color-cricket-green: #10b981;
+  --color-cricket-darkgreen: #047857;
+  --color-speed-yellow: #f59e0b;
+  --color-injury-red: #ef4444;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-glow: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(16, 185, 129, 0.2), inset 0 0 10px rgba(16, 185, 129, 0.1);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.5), inset 0 0 15px rgba(16, 185, 129, 0.2);
+  }
+}
+
+/* Base style resets */
+body {
+  background-color: #05070c;
+  background-image: 
+    radial-gradient(at 10% 10%, rgba(16, 185, 129, 0.07) 0px, transparent 50%),
+    radial-gradient(at 90% 10%, rgba(59, 130, 246, 0.05) 0px, transparent 50%),
+    radial-gradient(at 50% 90%, rgba(245, 158, 11, 0.04) 0px, transparent 50%);
+  color: #f8fafc;
+  font-family: 'Outfit', 'Inter', sans-serif;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Glassmorphism Styles */
+.glass-card {
+  background: rgba(13, 20, 38, 0.55);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.glass-card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(16, 185, 129, 0.3);
+  box-shadow: 0 12px 40px 0 rgba(16, 185, 129, 0.15);
+  background: rgba(15, 25, 48, 0.7);
+}
+
+.glass-panel {
+  background: rgba(8, 12, 24, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glass-input {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(8px);
+  transition: all 0.3s ease;
+  color: white;
+}
+
+.glass-input:focus {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: #10b981;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.25);
+  outline: none;
+}
+
+.glass-btn-primary {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 14px rgba(16, 185, 129, 0.3);
+}
+
+.glass-btn-primary:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.5);
+  filter: brightness(1.1);
+}
+
+.glass-btn-primary:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.glass-btn-secondary {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #e2e8f0;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.glass-btn-secondary:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+/* Custom Scrollbar for sports statistics */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(13, 20, 38, 0.15);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.4);
+}
+
+/* High-fidelity visualization details */
+.cricket-grid {
+  background-size: 20px 20px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+}
+
+.glow-emerald {
+  filter: drop-shadow(0 0 8px rgba(16, 185, 129, 0.5));
+}
+.glow-yellow {
+  filter: drop-shadow(0 0 8px rgba(245, 158, 11, 0.5));
+}
+.glow-red {
+  filter: drop-shadow(0 0 8px rgba(239, 68, 68, 0.5));
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #ffffff 0%, #a7f3d0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
